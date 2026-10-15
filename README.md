@@ -19,5 +19,5 @@ This repository is my personal sandbox for learning Git, Github, and the command
 - `git push` — upload commits to GitHub
 - `git diff` — shows the unstaged changes
 - `git diff --staged` — shows the staged changes
+- `git pull` - updates the local base code(Edited in the github)
 
-I learned the difference between staged and unstaged changes.
