@@ -17,3 +17,7 @@ This repository is my personal sandbox for learning Git, Github, and the command
 - `git commit` — save a local snapshot
 - `git remote` — manage remote connections
 - `git push` — upload commits to GitHub
+
+## Lesson 5 practice
+
+I am learning the difference between staged and unstaged changes.
