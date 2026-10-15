@@ -20,6 +20,4 @@ This repository is my personal sandbox for learning Git, Github, and the command
 - `git diff` — shows the unstaged changes
 - `git diff --staged` — shows the staged changes
 
-## Lesson 5 practice
-
-I am learning the difference between staged and unstaged changes.
+I learned the difference between staged and unstaged changes.
